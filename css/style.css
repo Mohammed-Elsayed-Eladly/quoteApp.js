@@ -1,0 +1,27 @@
+.quote{
+    text-align: center;
+}
+
+.quote h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quote p {
+    font-size: 35px;
+}
+
+.quote button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    cursor: auto;
+}
+
+.quote button:hover {
+    background-color: green;
+}
